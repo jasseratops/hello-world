@@ -1,2 +1,3 @@
 # hello-world
-Repreprep
+Repreprep\n
+a bit about yourself
